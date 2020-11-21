@@ -1,0 +1,1 @@
+flag = b'GWHT{e959e3f8e7242954b43e1b91de9886e1}Welc0metomyp4rty'
